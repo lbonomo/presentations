@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 124.36649 44.049672"
+   version="1.1"
+   sodipodi:docname="humandecode.svg"
+   width="124.36649"
+   height="44.049671"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Iso</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     id="namedview17"
+     showgrid="false"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:zoom="6.6185195"
+     inkscape:cx="74.15465"
+     inkscape:cy="9.3184841"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     lock-margins="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="22.649573,42.126595"
+       orientation="0,-1"
+       id="guide856" />
+    <sodipodi:guide
+       position="33.547008,2.1693292"
+       orientation="0,-1"
+       id="guide858" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#f96e62;}.cls-2{fill:#383182;}.cls-3{fill:#7b47f3;}</style>
+  </defs>
+  <title
+     id="title6">Iso</title>
+  <g
+     id="g848"
+     transform="matrix(0.10241311,0,0,0.10241311,1.4879344,1.4879344)">
+    <path
+       class="cls-1"
+       d="M 312.41,154.19 8.24,15.53 A 21.69,21.69 0 0 0 5,26.83 v 65.63 a 21.78,21.78 0 0 0 12.77,19.82 l 194.33,88.25 h 105.36 a 225,225 0 0 0 -2.88,-35.31 c -0.62,-3.69 -1.34,-7.39 -2.17,-11.03 z"
+       id="path8" />
+    <path
+       class="cls-2"
+       d="M 312.41,154.19 A 187.74,187.74 0 0 0 291.5,100.07 C 274.26,70.4 249.8,46.88 218.8,30.17 187.8,13.46 151.59,5 111.13,5 H 26.79 A 21.69,21.69 0 0 0 8.24,15.53 Z"
+       id="path10" />
+    <path
+       class="cls-3"
+       d="M 312.41,246.87 8.24,385.58 A 21.69,21.69 0 0 1 5,374.28 v -65.63 a 21.78,21.78 0 0 1 12.77,-19.82 l 194.33,-88.3 h 105.36 a 225,225 0 0 1 -2.88,35.31 c -0.62,3.69 -1.34,7.39 -2.17,11.03 z"
+       id="path12" />
+    <path
+       class="cls-2"
+       d="m 312.41,246.87 a 187.74,187.74 0 0 1 -20.91,54.12 c -17.24,29.67 -41.7,53.19 -72.7,69.9 -31,16.71 -67.21,25.17 -107.67,25.17 H 26.79 A 21.69,21.69 0 0 1 8.24,385.58 Z"
+       id="path14" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:22.8653px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.22493"
+     x="40.874741"
+     y="18.5198"
+     id="text852"><tspan
+       sodipodi:role="line"
+       id="tspan850"
+       x="40.874741"
+       y="18.5198"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.8653px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';fill:#383182;fill-opacity:1;stroke-width:1.22493">Human</tspan><tspan
+       sodipodi:role="line"
+       x="40.874741"
+       y="41.161804"
+       id="tspan854"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.8653px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold';fill:#383182;fill-opacity:1;stroke-width:1.22493">Decode</tspan></text>
+</svg>

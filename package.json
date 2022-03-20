@@ -1,0 +1,23 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "Some presentations",
+  "main": "index.js",
+  "scripts": {
+    "docker-local": "marp docker/local/presentation.md",
+    "docker-local-watch": "marp -w docker/local/presentation.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbonomo/presentations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbonomo/presentations/issues"
+  },
+  "homepage": "https://github.com/lbonomo/presentations#readme",
+  "workspaces": [
+    "docker/local/"
+  ]
+}
